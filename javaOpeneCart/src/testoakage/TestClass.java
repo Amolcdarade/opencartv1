@@ -6,7 +6,7 @@ public class TestClass {
 		
 		System.out.println("testBase class");
 		System.out.println("pom.xml");
-		System.out.println("utility");
+		System.out.println("utility class");
 
 
 	}
